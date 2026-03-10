@@ -20,12 +20,14 @@ A Blender add-on to quicken your vertex coloring workflow using the **ImphenziaP
 1. **The Palette**: You need the **ImphenziaPixPal** palette image and material. 
    - [Get the palette from Imphenzia here](https://imphenzia.com/imphenzia-pixpal)
 2. **Installation**:
-   - Download `PixPanel.py`.
-   - In Blender: `Edit › Preferences › Add-ons › Install...` and select the file.
-   - Enable **PixPal Panel**.
+   - Download **[PixPalPanel_Extension.zip](PixPalPanel_Extension.zip)**.
+   - In Blender: `Edit › Preferences › Extensions`.
+   - Click the **arrow icon** (top right) and select **Install from Disk...**.
+   - Select the downloaded `.zip` file.
 3. **Usage**:
    - Open the Sidebar (`N` key) and find the **PixPal** tab.
    - Ensure you have a material named `ImphenziaPixPal` and an image named `ImphenziaPixPal-BaseColor.png` in your file. (Names can be customized in the Add-on Settings box at the bottom of the panel).
+   - recommended start: select an object with PixPal Material and hit "Sample Favourites" to get started
 
 ## Credits
 Add-on by **Eckhard Ehm**. 
