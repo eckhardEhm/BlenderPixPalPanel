@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "eck_pixpal_panel"
+version = "0.0.6"
+name = "PixPal Panel"
+tagline = "Quick UV reading and assignments for ImphenziaPixPal palette"
+maintainer = "Eckhard Ehm"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:BSD-3-Clause"]
+
+website = "https://imphenzia.com/imphenzia-pixpal"
+
+# Optional metadata
+tags = ["UV Workflow", "Modeling", "Texturing"]
+
+[permissions]
+# The add-on only modifies internal Blender data.
+# No network or filesystem access required beyond add-on storage.
